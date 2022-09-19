@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.left{
+	width : 59%;
+	height : 100%;
+	float: left;
+	border : 2px;
+	border-style : dotted;
+	border-color: black;
+}
+
+.right{
+	width : 40%;
+	height : 100%;
+	float : right;
+	border : 2px;
+	border-style : dotted;
+	border-color: black;
+}
